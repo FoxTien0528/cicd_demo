@@ -7,7 +7,7 @@ auth = HTTPBasicAuth()
 # 示例用户名和密码，实际使用时请替换为安全的凭证
 users = {
     "username": "password",
-    "testuser001": "password",
+    "testuser001": "passw0rd",
     "testuser002": "password"
 }
 
